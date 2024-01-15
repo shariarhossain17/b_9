@@ -15,4 +15,4 @@ const numberOfStepsNumbersToZero = (number) =>{
     return cnt;
 }
 
-console.log(numberOfStepsNumbersToZero(14));
+console.log(numberOfStepsNumbersToZero(123));
